@@ -1,1 +1,2 @@
 Criando repositorio  1 no Git 
+Este repositorio foi criado com o intuito de aprender a mexer no git e github
